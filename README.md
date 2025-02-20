@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PigHillJimster
 - 👀 I’m interested in ... Orienteering, Hiking, Electronics, PCB Design
-- 🌱 I’m currently learning ... Cyber Security
+- 🌱 I’m currently learning ... Creative Writing
 - 💞️ I’m looking to collaborate on ... PCB Design and Electronic Engineering
 - 📫 How to reach me ... 
 - I'm an Electronic Engineer and PCB Designer with over 25 years of experience. I have gained the IPC CID+ Advanced Certified Interconnection Designer qualification.
